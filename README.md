@@ -194,6 +194,7 @@ AI/深度学习：
 
 *   [basis universal](https://github.com/BinomialLLC/basis_universal)：压缩纹理编解码器，支持.basis和.ktx2，C++
 *   [basis Viewer](http://basis.bimant.com): Basis Universal纹理在线查看工具
+*   [miniPaint中文版](http://ps.bimant.com): 纹理在线编辑工具
 
 2D/3D渲染：
 
